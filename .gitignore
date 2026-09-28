@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+._*
+*.py
+*.pyc
+*.sqlite*
+*.db
+.env
+venv/
+node_modules/
