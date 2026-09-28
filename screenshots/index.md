@@ -1,215 +1,224 @@
-# Галерея экранов MetalPro ERP
+# MetalPro ERP
 
-В галерее 63 снимков реального интерфейса, сделанных в Google Chrome. Имена сотрудников, клиентов и проектов скрыты; прочие данные интерфейса сохранены. Нумерация отражает обход разделов и может иметь пропуски: служебные API-ответы и пустые/ошибочные страницы исключены.
+**MetalPro** — ERP-система для управления работой металлообрабатывающего завода: от проекта и спецификации до закупки металла, складского учёта, производственных операций и анализа результатов.
 
-## Обзор и основные разделы
+## Что охватывает система
 
-### Dashboard
-![Dashboard](../screenshots/01-dashboard.jpg)
+В интерфейсе собраны проекты и этапы работ, спецификации изделий и вложенные конструкции, каталог металлопроката и калькуляторы веса, складские остатки и маркировка, заявки и заказы поставщикам, учёт рабочего времени и аналитика сотрудников. Руководители могут просматривать рентабельность проектов, расход материалов, загрузку склада и производственные отчёты. Также представлены контрагенты, договоры, документы, согласования, уведомления, управление пользователями и обмен данными с 1С.
 
-### Projects
-![Projects](../screenshots/02-projects.jpg)
+## Скриншоты интерфейса
 
-### Specifications
-![Specifications](../screenshots/03-specifications.jpg)
+Ниже — **63 снимков** основных экранов, карточек, форм и отчётов ERP, сделанных в Google Chrome. Имена сотрудников, клиентов и проектов скрыты; другие значения оставлены на снимках. Пустые состояния отражают отсутствие записей для соответствующего раздела в открытой учётной записи. Кабинет заказчика показан на экране входа.
 
-### Warehouse
-![Warehouse](../screenshots/04-warehouse.jpg)
+Репозиторий публичный и содержит только изображения и их описание. Исходный код проекта хранится отдельно в [приватном репозитории MetalPro](https://github.com/kirillbavin-svg/MetalPro).
 
-### Procurement
-![Procurement](../screenshots/05-procurement.jpg)
 
-### Employees
-![Employees](../screenshots/06-employees.jpg)
 
-### Counterparties
-![Counterparties](../screenshots/07-counterparties.jpg)
+## Главная панель и модули
 
-### Contracts
-![Contracts](../screenshots/08-contracts.jpg)
+### Главная панель
+![Главная панель](../screenshots/01-dashboard.png)
 
-### Documents
-![Documents](../screenshots/09-documents.jpg)
+### Список проектов
+![Список проектов](../screenshots/02-projects.png)
 
-### Reports
-![Reports](../screenshots/10-reports.jpg)
+### Спецификации
+![Спецификации](../screenshots/03-specifications.png)
 
-### Calculators
-![Calculators](../screenshots/11-calculators.jpg)
+### Склад
+![Склад](../screenshots/04-warehouse.png)
 
-### Steel
-![Steel](../screenshots/12-steel.jpg)
+### Закупки
+![Закупки](../screenshots/05-procurement.png)
 
-### Exchange
-![Exchange](../screenshots/13-exchange.jpg)
+### Сотрудники
+![Сотрудники](../screenshots/06-employees.png)
 
-### Saved
-![Saved](../screenshots/14-saved.jpg)
+### Контрагенты
+![Контрагенты](../screenshots/07-counterparties.png)
 
-## Проекты и затраты
+### Договоры
+![Договоры](../screenshots/08-contracts.png)
 
-### Project detail
-![Project detail](../screenshots/15-project-detail.jpg)
+### Документы
+![Документы](../screenshots/09-documents.png)
 
-### Project gantt
-![Project gantt](../screenshots/16-project-gantt.jpg)
+### Отчёты
+![Отчёты](../screenshots/10-reports.png)
 
-### Project new
-![Project new](../screenshots/68-project-new.jpg)
+### Калькуляторы
+![Калькуляторы](../screenshots/11-calculators.png)
 
-### Project edit
-![Project edit](../screenshots/69-project-edit.jpg)
+### Справочник металла
+![Справочник металла](../screenshots/12-steel.png)
 
-### Project detail 2
-![Project detail 2](../screenshots/80-project-detail-2.jpg)
+### Обмен с 1С
+![Обмен с 1С](../screenshots/13-exchange.png)
 
-### Project cost form
-![Project cost form](../screenshots/85-project-cost-form.jpg)
+### Сохранённые позиции и конструкции
+![Сохранённые позиции и конструкции](../screenshots/14-saved.png)
+
+## Проекты и себестоимость
+
+### Карточка проекта
+![Карточка проекта](../screenshots/15-project-detail.jpg)
+
+### Диаграмма Ганта
+![Диаграмма Ганта](../screenshots/16-project-gantt.jpg)
+
+### Создание проекта
+![Создание проекта](../screenshots/68-project-new.jpg)
+
+### Редактирование проекта
+![Редактирование проекта](../screenshots/69-project-edit.jpg)
+
+### Проект: затраты и этапы
+![Проект: затраты и этапы](../screenshots/80-project-detail-2.jpg)
+
+### Добавление затрат проекта
+![Добавление затрат проекта](../screenshots/85-project-cost-form.jpg)
 
 ## Спецификации и конструкции
 
-### Specification detail
-![Specification detail](../screenshots/22-specification-detail.jpg)
+### Карточка спецификации
+![Карточка спецификации](../screenshots/22-specification-detail.jpg)
 
-### Construction list
-![Construction list](../screenshots/25-construction-list.jpg)
+### Список конструкций
+![Список конструкций](../screenshots/25-construction-list.jpg)
 
-### Construction builder
-![Construction builder](../screenshots/26-construction-builder.jpg)
+### Конструктор конструкции
+![Конструктор конструкции](../screenshots/26-construction-builder.jpg)
 
-### Calculator spec builder
-![Calculator spec builder](../screenshots/28-calculator-spec-builder.jpg)
+### Создание спецификации из расчёта
+![Создание спецификации из расчёта](../screenshots/28-calculator-spec-builder.jpg)
 
-### Specification new
-![Specification new](../screenshots/70-specification-new.jpg)
+### Создание спецификации
+![Создание спецификации](../screenshots/70-specification-new.jpg)
 
-### Specification edit
-![Specification edit](../screenshots/71-specification-edit.jpg)
+### Редактирование спецификации
+![Редактирование спецификации](../screenshots/71-specification-edit.jpg)
 
-### Construction view
-![Construction view](../screenshots/74-construction-view.jpg)
+### Просмотр конструкции
+![Просмотр конструкции](../screenshots/74-construction-view.jpg)
 
-### Specification detail 2
-![Specification detail 2](../screenshots/81-specification-detail-2.jpg)
+### Спецификация: состав и статусы
+![Спецификация: состав и статусы](../screenshots/81-specification-detail-2.jpg)
 
-### Specification cutting panel
-![Specification cutting panel](../screenshots/82-specification-cutting-panel.jpg)
+### Панель раскроя спецификации
+![Панель раскроя спецификации](../screenshots/82-specification-cutting-panel.jpg)
 
-### Specification expanded
-![Specification expanded](../screenshots/83-specification-expanded.jpg)
+### Расширенный состав спецификации
+![Расширенный состав спецификации](../screenshots/83-specification-expanded.jpg)
 
-### Specification entries
-![Specification entries](../screenshots/84-specification-entries.jpg)
+### Позиции спецификации
+![Позиции спецификации](../screenshots/84-specification-entries.jpg)
 
-## Калькуляторы и металл
+## Калькуляторы и металлопрокат
 
-### Steel
-![Steel](../screenshots/12-steel.jpg)
-
-### Calculator weight
-![Calculator weight](../screenshots/27-calculator-weight.jpg)
+### Расчёт веса металла
+![Расчёт веса металла](../screenshots/27-calculator-weight.jpg)
 
 ## Склад
 
-### Warehouse add
-![Warehouse add](../screenshots/29-warehouse-add.jpg)
+### Добавление складской позиции
+![Добавление складской позиции](../screenshots/29-warehouse-add.jpg)
 
-### Warehouse mobile
-![Warehouse mobile](../screenshots/32-warehouse-mobile.jpg)
+### Мобильный склад
+![Мобильный склад](../screenshots/32-warehouse-mobile.jpg)
 
-### Warehouse qr label
-![Warehouse qr label](../screenshots/34-warehouse-qr-label.jpg)
+### QR-этикетка склада
+![QR-этикетка склада](../screenshots/34-warehouse-qr-label.jpg)
 
-### Warehouse label
-![Warehouse label](../screenshots/75-warehouse-label.jpg)
+### Печать складской этикетки
+![Печать складской этикетки](../screenshots/75-warehouse-label.jpg)
 
 ## Закупки и контрагенты
 
-### Procurement home
-![Procurement home](../screenshots/35-procurement-home.jpg)
+### Закупки: обзор
+![Закупки: обзор](../screenshots/35-procurement-home.jpg)
 
-### Counterparty detail
-![Counterparty detail](../screenshots/72-counterparty-detail.jpg)
+### Карточка контрагента
+![Карточка контрагента](../screenshots/72-counterparty-detail.jpg)
 
-### Procurement orders tab
-![Procurement orders tab](../screenshots/76-procurement-orders-tab.jpg)
+### Закупки: заказы
+![Закупки: заказы](../screenshots/76-procurement-orders-tab.jpg)
 
 ## Сотрудники и учёт времени
 
-### Employees timesheet
-![Employees timesheet](../screenshots/42-employees-timesheet.jpg)
+### Табель сотрудников
+![Табель сотрудников](../screenshots/42-employees-timesheet.jpg)
 
-### Employees timesheet month
-![Employees timesheet month](../screenshots/43-employees-timesheet-month.jpg)
+### Табель за месяц
+![Табель за месяц](../screenshots/43-employees-timesheet-month.jpg)
 
-### Employees analytics
-![Employees analytics](../screenshots/44-employees-analytics.jpg)
+### Аналитика персонала
+![Аналитика персонала](../screenshots/44-employees-analytics.jpg)
 
-### Employee detail
-![Employee detail](../screenshots/73-employee-detail.jpg)
+### Карточка сотрудника
+![Карточка сотрудника](../screenshots/73-employee-detail.jpg)
 
-### Employees departments
-![Employees departments](../screenshots/86-employees-departments.jpg)
+### Подразделения сотрудников
+![Подразделения сотрудников](../screenshots/86-employees-departments.jpg)
 
-## Отчёты
+## Отчёты и аналитика
 
-### Report profitability
-![Report profitability](../screenshots/49-report-profitability.jpg)
+### Отчёт по рентабельности
+![Отчёт по рентабельности](../screenshots/49-report-profitability.jpg)
 
-### Report warehouse turnover
-![Report warehouse turnover](../screenshots/50-report-warehouse-turnover.jpg)
+### Оборачиваемость склада
+![Оборачиваемость склада](../screenshots/50-report-warehouse-turnover.jpg)
 
-### Report cutting
-![Report cutting](../screenshots/51-report-cutting.jpg)
+### Отчёт по раскрою
+![Отчёт по раскрою](../screenshots/51-report-cutting.jpg)
 
-### Report productivity
-![Report productivity](../screenshots/52-report-productivity.jpg)
+### Производительность сотрудников
+![Производительность сотрудников](../screenshots/52-report-productivity.jpg)
 
-### Report procurement
-![Report procurement](../screenshots/53-report-procurement.jpg)
+### Аналитика закупок
+![Аналитика закупок](../screenshots/53-report-procurement.jpg)
 
-### Report project timeline
-![Report project timeline](../screenshots/54-report-project-timeline.jpg)
+### Сроки проектов
+![Сроки проектов](../screenshots/54-report-project-timeline.jpg)
 
-### Report material consumption
-![Report material consumption](../screenshots/55-report-material-consumption.jpg)
+### Расход материалов
+![Расход материалов](../screenshots/55-report-material-consumption.jpg)
 
-### Report financial summary
-![Report financial summary](../screenshots/56-report-financial-summary.jpg)
+### Финансовая сводка
+![Финансовая сводка](../screenshots/56-report-financial-summary.jpg)
 
 ## Согласования, уведомления и организации
 
-### Approvals
-![Approvals](../screenshots/57-approvals.jpg)
+### Согласования
+![Согласования](../screenshots/57-approvals.jpg)
 
-### Approval rules
-![Approval rules](../screenshots/58-approval-rules.jpg)
+### Правила согласования
+![Правила согласования](../screenshots/58-approval-rules.jpg)
 
-### Notifications
-![Notifications](../screenshots/59-notifications.jpg)
+### Уведомления
+![Уведомления](../screenshots/59-notifications.jpg)
 
-### Notification preferences
-![Notification preferences](../screenshots/60-notification-preferences.jpg)
+### Настройки уведомлений
+![Настройки уведомлений](../screenshots/60-notification-preferences.jpg)
 
-### Organizations
-![Organizations](../screenshots/61-organizations.jpg)
+### Организации
+![Организации](../screenshots/61-organizations.jpg)
 
-## Администрирование, API и кабинет заказчика
+## Администрирование и кабинет заказчика
 
-### Admin
-![Admin](../screenshots/62-admin.jpg)
+### Администрирование
+![Администрирование](../screenshots/62-admin.jpg)
 
-### Admin users
-![Admin users](../screenshots/63-admin-users.jpg)
+### Пользователи
+![Пользователи](../screenshots/63-admin-users.jpg)
 
-### Admin prices
-![Admin prices](../screenshots/64-admin-prices.jpg)
+### Цены
+![Цены](../screenshots/64-admin-prices.jpg)
 
-### Admin catalog
-![Admin catalog](../screenshots/65-admin-catalog.jpg)
+### Каталог
+![Каталог](../screenshots/65-admin-catalog.jpg)
 
-### Api key settings
-![Api key settings](../screenshots/77-api-key-settings.jpg)
+### Настройки API-ключей
+![Настройки API-ключей](../screenshots/77-api-key-settings.jpg)
 
-### Portal login
-![Portal login](../screenshots/79-portal-login.jpg)
+### Вход в кабинет заказчика
+![Вход в кабинет заказчика](../screenshots/79-portal-login.jpg)
